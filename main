@@ -1,0 +1,3 @@
+if game.PlaceId == 1137431029 then
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/iamnotadog12/Car-2/main/ee"), true))()
+end
